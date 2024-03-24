@@ -38,7 +38,7 @@
     "camel-case": "^3.0.0",
     "chai": "^3.5.0",
     "cli-table": "^0.3.1",
-    "codecov": "^2.1.0",
+    "codecov": "^3.8.3",
     "cp-file": "^4.1.0",
     "cross-env": "^5.0.0",
     "css-loader": "^0.28.0",
@@ -55,7 +55,7 @@
     "istanbul": "^0.4.4",
     "istanbul-instrumenter-loader": "^2.0.0",
     "json-loader": "^0.5.4",
-    "karma": "^1.1.1",
+    "karma": "^6.4.3",
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.0",
     "karma-firefox-launcher": "^1.0.0",
@@ -68,7 +68,7 @@
     "lolex": "^1.5.0",
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
-    "node-sass": "^4.0.0",
+    "node-sass": "^9.0.0",
     "npm-run-all": "^3.1.2",
     "postcss-loader": "^2.0.3",
     "raw-loader": "^0.5.1",
@@ -88,7 +88,7 @@
     "to-slug-case": "^1.0.0",
     "validate-commit-msg": "^2.6.1",
     "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.4.3"
+    "webpack-dev-server": "^5.0.4"
   },
   "babel": {
     "presets": [
